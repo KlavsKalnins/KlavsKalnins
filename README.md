@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 <img align="left" style="padding-right:10px;" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" style="padding-right:10px;" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <br />
-
-#
