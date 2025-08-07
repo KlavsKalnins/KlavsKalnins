@@ -8,9 +8,9 @@
 Software Developer with **7+ years** of experience creating clean, portable, and reusable solutions. My ikigai (reason for being) is building innovative products that make a difference.
 
 ## 🛠️ Tech Stack
-- **Languages:** C#, TypeScript, JavaScript
-- **Game Development:** Unity, Unreal Engine
-- **Web:** ASP.NET MVC, Next.js, Vue.js,
+- **Languages:** C#, TypeScript, JavaScript, Python, 
+- **Game Development:** Unity
+- **Web:** ASP.NET MVC, Next.js, Vue.js, Blazor
 - **Database:** SQL Server, Entity Framework, Postgress
 - **Other:** Arduino, VR/AR, GraphQL
 <br />
