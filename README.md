@@ -2,18 +2,11 @@
  
 ## **Klāvs Kalniņš**
 
-[Read my Linkedin](https://www.linkedin.com/in/kl%C4%81vs-kalni%C5%86%C5%A1-877633207/)
+[Read my Linkedin](www.linkedin.com/in/klāvs-kalniņš-877633207)
+[Read my CV]([www.linkedin.com/in/klāvs-kalniņš-877633207](https://docs.google.com/document/d/1m8dUqqGe1-KktPxEgDsjAHQXkjcE4RozcbXdRFinnhw/edit?usp=sharing))
 
-## 🚀 About Me
-Software Developer with **7+ years** of experience creating clean, portable, and reusable solutions. My ikigai (reason for being) is building innovative products that make a difference.
 
-## 🛠️ Tech Stack
-- **Languages:** C#, TypeScript, JavaScript, Python, 
-- **Game Development:** Unity
-- **Web:** ASP.NET MVC, Next.js, Vue.js, Blazor
-- **Database:** SQL Server, Entity Framework, Postgress
-- **Other:** Arduino, VR/AR, GraphQL
-<br />
-
----
 *"My passion is building solutions out of thin air, my mission is to help Earth by creating useful products"*
+
+I enojy seeing programming patterns and pain points and optimising daily tasks to make my and other work more effective.
+I collaborate wiht artists, programmers from all over the world to bring useful products to the market.
